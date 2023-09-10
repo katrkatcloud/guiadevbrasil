@@ -3,7 +3,7 @@
     <img src="./images/guia.png" alt="Guia Extenso de Programaçãohttps://github.com/arthurspk/guiadevbrasil" width="160" height="160">
   </a>
   <h1 align="center">Guia Extenso de Programação</h1>
-</p>
+</
 
 ## :dart: O guia para alavancar a sua carreira
 
